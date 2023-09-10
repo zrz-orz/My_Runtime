@@ -1,0 +1,10 @@
+/mnt/c/Users/zrz_orz/Desktop/Rust/Day4/MyRuntime/target/debug/deps/async_global_executor-4f948c0cbd33909f.rmeta: /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/lib.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/config.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/executor.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/init.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/reactor.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/threading.rs
+
+/mnt/c/Users/zrz_orz/Desktop/Rust/Day4/MyRuntime/target/debug/deps/async_global_executor-4f948c0cbd33909f.d: /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/lib.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/config.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/executor.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/init.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/reactor.rs /home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/threading.rs
+
+/home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/lib.rs:
+/home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/config.rs:
+/home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/executor.rs:
+/home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/init.rs:
+/home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/reactor.rs:
+/home/zrz_orz/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-global-executor-2.3.1/src/threading.rs:
